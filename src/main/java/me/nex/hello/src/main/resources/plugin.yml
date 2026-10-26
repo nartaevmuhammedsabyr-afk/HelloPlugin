@@ -1,0 +1,4 @@
+name: HelloPlugin
+version: 1.0
+main: me.nex.hello.HelloPlugin
+api-version: '1.21'
